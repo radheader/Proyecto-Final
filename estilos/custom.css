@@ -11996,7 +11996,6 @@ header ul li a {
 
 footer {
   background-color: #BFAE8E;
-  height: 10vh;
 }
 
 .mapa {
@@ -12039,10 +12038,6 @@ footer {
   header {
     height: 200px;
   }
-}
-
-p {
-  border: 1px solid;
 }
 
 .item-6 {
