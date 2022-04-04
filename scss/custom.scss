@@ -7,7 +7,7 @@
 
 //Determinacion de fuente y colores
 $font-family-base: "Roboto", sans-serif;
-$primary: rgb(168, 163, 156);
+$primary: #BFAE8E;
 $navbar-height: 200px;
 
 //Importacion de Bootstrap
@@ -129,3 +129,19 @@ $display-font-sizes: (
   5: 3rem,
   6: 2.5rem,
 );
+
+//Grid Index
+
+.bienvenidaSulpayki{
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+// Texto
+
+.texto1 {
+  font-family: "Roboto", sans-serif;
+  color: #2F2A26;
+  text-justify: center;
+  text-align: center;
+  line-height: 1.5; }
